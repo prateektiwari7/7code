@@ -33,6 +33,18 @@
 	});
 
 
+/*
+	var sections = $("section1");
+	var navigation_links = $("#nav-wrap a1");
+*/
+	var sections = $("section1");
+	var navigation_links = $("#nav-wrap a1");
+
+
+
+
+
+
 /*----------------------------------------------------*/
 /* Highlight the current section in the navigation bar
 ------------------------------------------------------*/
