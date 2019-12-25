@@ -40,6 +40,8 @@
 	var sections = $("section");
 	var navigation_links = $("#nav-wrap a");
 
+	 /* monarth-s*/
+	 
 	sections.waypoint({
 
       handler: function(event, direction) {
