@@ -43,6 +43,8 @@
 
 /* my changes monarth-s */
 
+	 /* monarth-s*/
+	 
 	sections.waypoint({
 
       handler: function(event, direction) {
