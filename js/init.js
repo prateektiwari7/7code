@@ -38,7 +38,10 @@
 ------------------------------------------------------*/
 
 	var sections = $("section");
-	var navigation_links = $("#nav-wrap a");
+   var navigation_links = $("#nav-wrap a");
+   
+
+/* my changes monarth-s */
 
 	sections.waypoint({
 
